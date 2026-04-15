@@ -17,6 +17,4 @@ General layout
 Most of the work was adjusting spacing and understanding how each element behaves.
 Good reminder of how inline vs block elements affect margins.
 
-Tech
-HTML
-CSS
+Tech: HTML & CSS
